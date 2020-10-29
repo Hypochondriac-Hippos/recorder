@@ -1,3 +1,8 @@
+# Usage
+Follow instructions below, but don't install in `~/ros_ws`. Run `record_sim.sh`
+to record a video of the simulation. Videos are saved to
+`~/Videos/353_recordings/start UTC datetime.avi`.
+
 # 2020T1 UBC Parking competition
 
 The repository contains the following ROS packages:
