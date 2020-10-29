@@ -1,0 +1,4 @@
+<launch>
+  <include file="$(find enph353_utils)/launch/sim.launch" />
+  <node pkg="enph353_gazebo" type="record.py" name="record" output="screen"/>
+</launch>
